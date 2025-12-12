@@ -1,0 +1,57 @@
+============================================================
+CO-EVOLUTIONARY GA EXPERIMENT RESULTS
+============================================================
+Timestamp: 20251211_010949
+Number of runs: 30
+Population size: 20
+Generations: 50
+Game rounds: 151
+Elitism count: 2
+Mode: CO-EVOLUTION with ELITISM (population plays against itself)
+
+============================================================
+AGGREGATED PERFORMANCE (averaged over 30 runs)
+============================================================
+Final best score (averaged): 414.0 (±94.2)
+Final avg score (averaged):  366.5 (±79.9)
+Final diversity (averaged):  9.0 (±2.9)
+Overall best score:          636.4
+============================================================
+
+============================================================
+BEST CHROMOSOME ANALYSIS (Best across all 30 runs)
+============================================================
+
+Cooperation Rates Against Population:
+------------------------------------------------------------
+  vs Individual  1:    2.0% (3/151 moves)
+  vs Individual  3:    2.0% (3/151 moves)
+  vs Individual  4:   42.4% (64/151 moves)
+  vs Individual  5:    2.0% (3/151 moves)
+  vs Individual  7:    2.0% (3/151 moves)
+  vs Individual  8:    2.0% (3/151 moves)
+  vs Individual  9:   49.7% (75/151 moves)
+  vs Individual 10:    2.0% (3/151 moves)
+  vs Individual 11:    2.0% (3/151 moves)
+  vs Individual 12:    1.3% (2/151 moves)
+  vs Individual 13:    2.0% (3/151 moves)
+  vs Individual 14:    2.0% (3/151 moves)
+  vs Individual 15:    2.0% (3/151 moves)
+  vs Individual 16:   33.1% (50/151 moves)
+  vs Individual 17:    2.0% (3/151 moves)
+  vs Individual 18:   49.7% (75/151 moves)
+  vs Individual 19:    2.0% (3/151 moves)
+  vs Individual 20:    2.0% (3/151 moves)
+------------------------------------------------------------
+  OVERALL             :  11.2% (305/2718 moves)
+
+Premise (assumed initial 6 moves):
+  My assumed moves:       ['D', 'C', 'C']
+  Opponent assumed moves: ['C', 'D', 'D']
+
+Lookup Table Summary:
+  Cooperate responses: 23/64 (35.9%)
+  Defect responses:    41/64 (64.1%)
+
+Full chromosome (70 bits):
+  [0, 0, 1, 0, 0, 1, 1, 0, 1, 1, 0, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 1, 1]

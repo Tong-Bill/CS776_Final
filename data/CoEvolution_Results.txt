@@ -1,0 +1,57 @@
+============================================================
+CO-EVOLUTIONARY GA EXPERIMENT RESULTS
+============================================================
+Timestamp: 20251211_001149
+Number of runs: 30
+Population size: 20
+Generations: 50
+Game rounds: 151
+Mode: CO-EVOLUTION (population plays against itself)
+
+============================================================
+AGGREGATED PERFORMANCE (averaged over 30 runs)
+============================================================
+Final best score (averaged): 428.5 (±43.0)
+Final avg score (averaged):  407.5 (±55.1)
+Final diversity (averaged):  10.6 (±2.1)
+Overall best score:          482.3
+============================================================
+
+============================================================
+BEST CHROMOSOME ANALYSIS (Best across all 30 runs)
+============================================================
+
+Cooperation Rates Against Population:
+------------------------------------------------------------
+  vs Individual  1:   98.7% (149/151 moves)
+  vs Individual  2:   98.7% (149/151 moves)
+  vs Individual  3:   97.4% (147/151 moves)
+  vs Individual  4:   97.4% (147/151 moves)
+  vs Individual  5:    2.0% (3/151 moves)
+  vs Individual  6:   98.7% (149/151 moves)
+  vs Individual  7:    0.0% (0/151 moves)
+  vs Individual  8:   97.4% (147/151 moves)
+  vs Individual  9:   98.7% (149/151 moves)
+  vs Individual 10:    2.0% (3/151 moves)
+  vs Individual 11:    0.0% (0/151 moves)
+  vs Individual 12:   98.7% (149/151 moves)
+  vs Individual 13:    2.0% (3/151 moves)
+  vs Individual 14:   98.7% (149/151 moves)
+  vs Individual 15:   98.7% (149/151 moves)
+  vs Individual 17:   98.7% (149/151 moves)
+  vs Individual 18:    0.0% (0/151 moves)
+  vs Individual 19:   98.7% (149/151 moves)
+  vs Individual 20:    2.0% (3/151 moves)
+------------------------------------------------------------
+  OVERALL             :  62.5% (1794/2869 moves)
+
+Premise (assumed initial 6 moves):
+  My assumed moves:       ['C', 'C', 'D']
+  Opponent assumed moves: ['D', 'C', 'C']
+
+Lookup Table Summary:
+  Cooperate responses: 25/64 (39.1%)
+  Defect responses:    39/64 (60.9%)
+
+Full chromosome (70 bits):
+  [0, 0, 1, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 0, 1, 1, 1, 0, 0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 0, 1, 1, 1, 0, 0, 1, 0, 0, 1, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 0, 0]

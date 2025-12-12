@@ -1,0 +1,118 @@
+============================================================
+AXELROD GA EXPERIMENT RESULTS
+============================================================
+Timestamp: 20251210_231958
+Number of runs: 30
+Population size: 20
+Generations: 50
+Game rounds: 151
+
+============================================================
+REPRESENTATIVE STRATEGY PERFORMANCE (averaged over 30 runs)
+============================================================
+FirstByFeld         :  418.6 (±30.2)
+Defector            :  274.8 (±101.9)
+Cooperator          :  256.0 (±197.2)
+FirstByGrofman      :  351.5 (±131.5)
+Random              :  299.5 (±76.7)
+FirstByDavis        :  341.7 (±120.8)
+FirstByJoss         :  430.3 (±25.6)
+FirstByGraaskamp    :  321.4 (±74.0)
+
+============================================================
+Final best score (averaged): 394.9 (±7.6)
+Final avg score (averaged):  378.4 (±7.0)
+Overall best score:          409.8
+============================================================
+
+============================================================
+BEST CHROMOSOME ANALYSIS (Best across all 30 runs)
+============================================================
+
+Cooperation Rates vs Each Representative:
+------------------------------------------------------------
+  FirstByFeld         :  70.9% (107/151 moves)
+  Defector            :   0.0% (0/151 moves)
+  Cooperator          :   0.0% (0/151 moves)
+  FirstByGrofman      :  90.7% (137/151 moves)
+  Random              :  11.3% (17/151 moves)
+  FirstByDavis        :   0.0% (0/151 moves)
+  FirstByJoss         :  96.0% (145/151 moves)
+  FirstByGraaskamp    :  98.7% (149/151 moves)
+------------------------------------------------------------
+  OVERALL             :  45.9% (555/1208 moves)
+
+Premise (assumed initial 6 moves):
+  My assumed moves:       ['D', 'C', 'C']
+  Opponent assumed moves: ['D', 'D', 'D']
+
+Full chromosome (70 bits):
+  [0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 1]
+
+Manually Added:
+Lookup Table (sample of 64 entries):
+  Format: [My last 3] vs [Opp last 3] -> Action
+  [CCC] vs [CCC] -> C
+  [CCC] vs [CCD] -> C
+  [CCC] vs [CDC] -> C
+  [CCC] vs [CDD] -> D
+  [CCC] vs [DCC] -> C
+  [CCC] vs [DCD] -> C
+  [CCC] vs [DDC] -> C
+  [CCC] vs [DDD] -> D
+  [CCD] vs [CCC] -> C
+  [CCD] vs [CCD] -> C
+  [CCD] vs [CDC] -> C
+  [CCD] vs [CDD] -> C
+  [CCD] vs [DCC] -> D
+  [CCD] vs [DCD] -> C
+  [CCD] vs [DDC] -> D
+  [CCD] vs [DDD] -> D
+  [CDC] vs [CCC] -> D
+  [CDC] vs [CCD] -> C
+  [CDC] vs [CDC] -> C
+  [CDC] vs [CDD] -> D
+  [CDC] vs [DCC] -> D
+  [CDC] vs [DCD] -> C
+  [CDC] vs [DDC] -> C
+  [CDC] vs [DDD] -> C
+  [CDD] vs [CCC] -> C
+  [CDD] vs [CCD] -> C
+  [CDD] vs [CDC] -> C
+  [CDD] vs [CDD] -> D
+  [CDD] vs [DCC] -> D
+  [CDD] vs [DCD] -> C
+  [CDD] vs [DDC] -> D
+  [CDD] vs [DDD] -> D
+  [DCC] vs [CCC] -> C
+  [DCC] vs [CCD] -> D
+  [DCC] vs [CDC] -> C
+  [DCC] vs [CDD] -> D
+  [DCC] vs [DCC] -> C
+  [DCC] vs [DCD] -> D
+  [DCC] vs [DDC] -> C
+  [DCC] vs [DDD] -> D
+  [DCD] vs [CCC] -> D
+  [DCD] vs [CCD] -> D
+  [DCD] vs [CDC] -> D
+  [DCD] vs [CDD] -> D
+  [DCD] vs [DCC] -> D
+  [DCD] vs [DCD] -> C
+  [DCD] vs [DDC] -> D
+  [DCD] vs [DDD] -> C
+  [DDC] vs [CCC] -> C
+  [DDC] vs [CCD] -> C
+  [DDC] vs [CDC] -> D
+  [DDC] vs [CDD] -> C
+  [DDC] vs [DCC] -> C
+  [DDC] vs [DCD] -> C
+  [DDC] vs [DDC] -> D
+  [DDC] vs [DDD] -> C
+  [DDD] vs [CCC] -> D
+  [DDD] vs [CCD] -> D
+  [DDD] vs [CDC] -> D
+  [DDD] vs [CDD] -> D
+  [DDD] vs [DCC] -> D
+  [DDD] vs [DCD] -> D
+  [DDD] vs [DDC] -> D
+  [DDD] vs [DDD] -> D

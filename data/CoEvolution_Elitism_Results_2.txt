@@ -1,0 +1,78 @@
+============================================================
+CO-EVOLUTIONARY GA EXPERIMENT RESULTS
+============================================================
+Timestamp: 20251211_133225
+Number of runs: 30
+Population size: 40
+Generations: 100
+Game rounds: 151
+Elitism count: 4
+Mode: CO-EVOLUTION with ELITISM (population plays against itself)
+
+============================================================
+AGGREGATED PERFORMANCE (averaged over 30 runs)
+============================================================
+Final best score (averaged): 398.5 (±83.2)
+Final avg score (averaged):  378.8 (±80.2)
+Final diversity (averaged):  12.8 (±3.0)
+Overall best score:          514.9
+============================================================
+
+============================================================
+BEST CHROMOSOME ANALYSIS (Best across all 30 runs)
+============================================================
+
+Cooperation Rates Against Population:
+------------------------------------------------------------
+  vs Individual  1:   49.7% (75/151 moves)
+  vs Individual  2:   49.7% (75/151 moves)
+  vs Individual  3:   49.7% (75/151 moves)
+  vs Individual  4:   49.7% (75/151 moves)
+  vs Individual  5:   49.7% (75/151 moves)
+  vs Individual  6:   49.7% (75/151 moves)
+  vs Individual  7:   49.7% (75/151 moves)
+  vs Individual  8:   49.7% (75/151 moves)
+  vs Individual  9:   49.7% (75/151 moves)
+  vs Individual 10:   49.7% (75/151 moves)
+  vs Individual 11:   97.4% (147/151 moves)
+  vs Individual 12:   98.7% (149/151 moves)
+  vs Individual 13:   49.7% (75/151 moves)
+  vs Individual 14:   49.7% (75/151 moves)
+  vs Individual 15:   96.7% (146/151 moves)
+  vs Individual 16:   53.6% (81/151 moves)
+  vs Individual 17:   49.7% (75/151 moves)
+  vs Individual 18:   49.7% (75/151 moves)
+  vs Individual 19:   49.7% (75/151 moves)
+  vs Individual 20:   49.7% (75/151 moves)
+  vs Individual 21:   96.7% (146/151 moves)
+  vs Individual 22:   49.7% (75/151 moves)
+  vs Individual 23:   49.7% (75/151 moves)
+  vs Individual 24:   96.0% (145/151 moves)
+  vs Individual 25:   49.7% (75/151 moves)
+  vs Individual 26:   49.7% (75/151 moves)
+  vs Individual 27:   49.7% (75/151 moves)
+  vs Individual 28:   96.7% (146/151 moves)
+  vs Individual 29:   49.7% (75/151 moves)
+  vs Individual 30:   49.7% (75/151 moves)
+  vs Individual 31:   50.3% (76/151 moves)
+  vs Individual 32:   96.7% (146/151 moves)
+  vs Individual 33:   49.7% (75/151 moves)
+  vs Individual 34:   49.7% (75/151 moves)
+  vs Individual 35:   49.7% (75/151 moves)
+  vs Individual 36:   97.4% (147/151 moves)
+  vs Individual 37:   98.7% (149/151 moves)
+  vs Individual 38:   96.7% (146/151 moves)
+  vs Individual 40:   98.7% (149/151 moves)
+------------------------------------------------------------
+  OVERALL             :  63.2% (3723/5889 moves)
+
+Premise (assumed initial 6 moves):
+  My assumed moves:       ['C', 'D', 'C']
+  Opponent assumed moves: ['D', 'C', 'C']
+
+Lookup Table Summary:
+  Cooperate responses: 36/64 (56.2%)
+  Defect responses:    28/64 (43.8%)
+
+Full chromosome (70 bits):
+  [0, 1, 0, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 1, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 0, 1, 1, 0, 0, 0, 1, 1, 0, 1, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 0, 0]
