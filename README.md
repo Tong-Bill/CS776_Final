@@ -38,8 +38,7 @@ ELITISM_COUNT = 4      # Default set elites is 2
 ```
 
 ## Interactive Interface Demo
-An interactive web UI has been created, which displays statistics and results from experiments 1, 2, and 4, along with a graph gallery which visualizes average mean score results for all experiments. A game also allows the user to load some of the best chromosomes found in this work or play against a custom one, either by manually pasting or uploading a JSON/TXT file containinga 70 bit chromosome. This webpage can be self hosted and does not have any external dependencies, as all images hae been converted to base64 and embedded directly into HTML.<br/>
-Below is a demo video of the interface.<br/>
+An interactive web UI has been created, which displays statistics and results from experiments 1, 2, and 4, along with a graph gallery which visualizes average mean score results for all experiments. A game also allows the user to load some of the best chromosomes found in this work or play against a custom one, either by manually pasting or uploading a JSON/TXT file containing a 70 bit chromosome. This webpage can be self hosted and does not have any external dependencies, as all images hae been converted to base64 and embedded directly into HTML. Below is a demo video of the interface.<br/>
 https://github.com/user-attachments/assets/3ceaefe1-da48-4615-873c-7383c5873823
 
 
